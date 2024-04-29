@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://images.app.goo.gl/nTBioES9QWr9wcfv8)">
 <h1 align="center">Hi 👋, I'm Praveen</h1>
 <h3 align="center">Application developer from India</h3>
 
